@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 # privacyPolicies
+=======
+# privacyPolicies
+>>>>>>> tmp
